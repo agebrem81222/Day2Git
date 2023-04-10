@@ -14,4 +14,5 @@ public class Day2Demo {
 		System.out.println("add3");
 
 }
+public void add2() {
 }
